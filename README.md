@@ -1,7 +1,7 @@
 ng-Dynamic-Form-Builder
 =======================
 
-A Dynamic Form Builder made using AngularJS
+A Dynamic Form Builder made using AngularJS.
 Online Dynamic Form Builder is a useful tool especially for clients where:
 Form needs to be built more frequently
 Form elements keep changing
